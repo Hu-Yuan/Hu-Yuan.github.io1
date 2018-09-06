@@ -6,21 +6,21 @@ Overbearing austerity is always the companion of solitude.
 
 # 目录
 
-一些说明。This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+一些说明。
 
 ## 编程语言
 
-*
-*
-*
+*   Python
+*   Node.js
+*   JavaScript
 
 * * *
 
 ## 服务器技术
 
-*
-*
-*
+*   VPN
+*   DNS
+*   Wake On Lan
 
 * * *
 
@@ -36,25 +36,9 @@ Overbearing austerity is always the companion of solitude.
 * * *
 
 
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
 ![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
 ```python
-# python code with syntax highlighting
-print "hehe"
+# python code
+print "Coding,Changing."
 ```
