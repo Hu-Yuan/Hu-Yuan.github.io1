@@ -1,5 +1,4 @@
-title: Architect theme
-description: Architect is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: 胡源的博客
+description: 记录与审视自己。
+show_downloads: false
 theme: jekyll-theme-architect
