@@ -2,13 +2,11 @@
 layout: default
 ---
 
-Overbearing austerity is always the companion of solitude.
-
 # 目录
 
 一些说明。
 
-## 编程语言
+#  编程语言
 
 *   Python
 *   Node.js
@@ -16,7 +14,7 @@ Overbearing austerity is always the companion of solitude.
 
 * * *
 
-## 服务器技术
+#  服务器技术
 
 *   VPN
 *   DNS
@@ -24,7 +22,7 @@ Overbearing austerity is always the companion of solitude.
 
 * * *
 
-## 空间大数据
+#  空间大数据
 
 *   Esri大数据平台搭建指南之HDFS
 *   This is an unordered list following a header.
@@ -35,10 +33,7 @@ Overbearing austerity is always the companion of solitude.
 
 * * *
 
-
 ![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
 ```python
-# python code
 print "Coding,Changing."
 ```
