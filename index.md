@@ -2,9 +2,7 @@
 layout: default
 ---
 
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-记录与审视自己。
+Overbearing austerity is always the companion of solitude.
 
 # 目录
 
@@ -12,34 +10,30 @@ layout: default
 
 ## 编程语言
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+*
+*
+*
 
 * * *
 
 ## 服务器技术
 
+*
+*
+*
+
 * * *
 
 ## 空间大数据
 
+*   Esri大数据平台搭建指南之HDFS
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
-*   This is an unordered list following a header.
+1.	
+1.	
+1.	
 
 * * *
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
 
 
 
@@ -50,31 +44,15 @@ layout: default
 1.  Item three
 1.  Item four
 
-
 ### Large image
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
+![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
 
-
-```
-The final element.
-```
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+> This is a blockquote following a header.
+>
+> When something is important enough, you do it even if the odds are not in your favor.
 
 ```python
 # python code with syntax highlighting
