@@ -2,10 +2,6 @@
 layout: default
 ---
 
-# 目录
-
-一些说明。
-
 #  编程语言
 
 *   Python
@@ -33,7 +29,6 @@ layout: default
 
 * * *
 
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
 ```python
 print "Coding,Changing."
 ```
