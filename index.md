@@ -2,7 +2,7 @@
 layout: default
 ---
 
-记录与审视自己。
+学而时习之.
 
 #  Programming Language
 
@@ -33,5 +33,5 @@ layout: default
 * * *
 
 ```python
-print "Coding,Changing."
+print "记录与审视自己."
 ```
