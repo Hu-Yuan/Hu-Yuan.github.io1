@@ -2,15 +2,18 @@
 layout: default
 ---
 
-#  编程语言
+记录与审视自己。
+
+#  Programming Language
 
 *   Python
 *   Node.js
 *   JavaScript
+*   C
 
 * * *
 
-#  服务器技术
+#  Server Technology
 
 *   VPN
 *   DNS
@@ -18,10 +21,10 @@ layout: default
 
 * * *
 
-#  空间大数据
+#  Spatial BigData
 
 *   Esri大数据平台搭建指南之HDFS
-*   This is an unordered list following a header.
+*   HDFS原理
 *   This is an unordered list following a header.
 1.	
 1.	
